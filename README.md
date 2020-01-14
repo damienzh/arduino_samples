@@ -6,7 +6,7 @@ Arduino samples of using following sensors
 - Infrared Reflective Sensor
 - Grove Digital Light Sesnor
 - Grove Adjustable PIR
-- Grove LEC Bar
+- Grove LED Bar
 - Grove Round Force Sensor
 - Grove Sound Sensor
 - Grove Ultrasonice Sensor
