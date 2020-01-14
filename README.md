@@ -9,4 +9,4 @@ Arduino samples of using following sensors
 - Grove LED Bar
 - Grove Round Force Sensor
 - Grove Sound Sensor
-- Grove Ultrasonice Sensor
+- Grove Ultrasonic Sensor
