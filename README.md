@@ -13,7 +13,16 @@ Arduino samples of using following modules
 ## Display
 - Grove LED Bar
 
-## Installation
+## Install Arduino IDE
+- Download IDE from [official website](https://www.arduino.cc/)
+- unzip downloaded file to Home Folder
+- run installation script
+```bash
+cd arduino-1.8.12
+sudo ./install
+```
+
+## Installation pacakge
 - download package
 ```bash
 git clone http://github.com/damienzh/arduino_samples
