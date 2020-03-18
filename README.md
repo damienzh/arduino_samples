@@ -12,3 +12,14 @@ Arduino samples of using following modules
 
 ## Display
 - Grove LED Bar
+
+## Installation
+- download package
+```bash
+git clone http://github.com/damienzh/arduino_samples
+```
+- change sketch folder
+`File --> Preferences --> Sketchbook location`
+``` 
+/home/pi/arduino_samples
+```
