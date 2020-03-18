@@ -19,7 +19,7 @@ Arduino samples of using following modules
 - run installation script
 ```bash
 cd arduino-1.8.12
-sudo ./install
+sudo ./install.sh
 ```
 
 ## Installation pacakge
