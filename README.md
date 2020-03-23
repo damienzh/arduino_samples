@@ -2,16 +2,16 @@
 Arduino samples of using following modules
 
 ## Sensors
-- DHT22
-- Infrared Reflective Sensor
-- Grove Digital Light Sesnor
-- Grove Adjustable PIR
-- Grove Round Force Sensor
-- Grove Sound Sensor
-- Grove Ultrasonic Sensor
+- [DHT22](http://www.waveshare.net/wiki/DHT22_Temperature-Humidity_Sensor)
+- [Infrared Reflective Sensor](http://www.waveshare.net/wiki/Infrared_Reflective_Sensor)
+- [Grove Digital Light Sesnor](http://wiki.seeedstudio.com/cn/Grove-Digital_Light_Sensor/)
+- [Grove Adjustable PIR](http://wiki.seeedstudio.com/cn/Grove-PIR_Motion_Sensor/)
+- [Grove Round Force Sensor](http://wiki.seeedstudio.com/cn/Grove-Round_Force_Sensor_FSR402/)
+- [Grove Sound Sensor](http://wiki.seeedstudio.com/cn/Grove-Sound_Sensor/)
+- [Grove Ultrasonic Sensor](http://wiki.seeedstudio.com/cn/Grove-Ultrasonic_Ranger/)
 
 ## Display
-- Grove LED Bar
+- [Grove LED Bar](http://wiki.seeedstudio.com/cn/Grove-LED_Bar/)
 
 ## Install Arduino IDE
 - Download IDE from [official website](https://www.arduino.cc/)
